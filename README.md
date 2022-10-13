@@ -1,5 +1,5 @@
 # HPC2022
-Matmul          +/n
+Matmul          +
 VectorSum       -
 PI calc         -
 Salt and Pepper -
