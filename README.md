@@ -113,48 +113,101 @@ Relevance: true
 VectorSum(Результат):
 
 Size : 1000 
+
 CPU Time: 0.002889 ms
+
 GPU Time (improved): 0.024640 ms
+
 Acceleration factor: 0.117248 
+
+
 Size : 5000 
+
 CPU Time: 0.026103 ms
+
 GPU Time (improved): 0.022048 ms
+
 Acceleration factor: 1.183917 
+
+
 Size : 6000 
+
 CPU Time: 0.016935 ms
+
 GPU Time (improved): 0.019936 ms
+
 Acceleration factor: 0.849468 
+
+
 Size : 7000 
+
 CPU Time: 0.019786 ms
+
 GPU Time (improved): 0.026528 ms
+
 Acceleration factor: 0.745853 
+
+
 Size : 8000 
+
 CPU Time: 0.029911 ms
+
 GPU Time (improved): 0.024576 ms
+
 Acceleration factor: 1.217082 
+
+
 Size : 9000 
+
 CPU Time: 0.027104 ms
+
 GPU Time (improved): 0.042272 ms
+
 Acceleration factor: 0.641181 
+
+
 Size : 10000 
+
 CPU Time: 0.030123 ms
+
 GPU Time (improved): 0.030752 ms
+
 Acceleration factor: 0.979546 
+
+
 Size : 50000 
+
 CPU Time: 0.151009 ms
+
 GPU Time (improved): 0.078592 ms
+
 Acceleration factor: 1.921430 
+
+
 Size : 100000 
+
 CPU Time: 0.293632 ms
+
 GPU Time (improved): 0.147712 ms
+
 Acceleration factor: 1.987868 
+
+
 Size : 500000 
+
 CPU Time: 1.505501 ms
+
 GPU Time (improved): 0.461504 ms
+
 Acceleration factor: 3.262162 
+
+
 Size : 1000000 
+
 CPU Time: 2.965433 ms
+
 GPU Time (improved): 0.818464 ms
+
 Acceleration factor: 3.623168 
 
 ![изображение](https://user-images.githubusercontent.com/70959898/196279159-46550acd-577f-4d6f-8d98-c9237f8e0849.png)
