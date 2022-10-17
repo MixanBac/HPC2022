@@ -1,7 +1,7 @@
 # HPC2022
 Matmul          +
 
-VectorSum       -
+VectorSum       +
 
 PI calc         -
 
