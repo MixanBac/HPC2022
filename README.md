@@ -1,11 +1,11 @@
 # HPC2022
-Matmul          +
+Matmul                +
 
-VectorSum       +
+VectorSum             +
 
-PI calc         -
+PI_value_calculation  +
 
-Salt and Pepper -
+Salt and Pepper       -
 
 Matmul:
 
@@ -215,3 +215,17 @@ Acceleration factor: 3.623168
 ![изображение](https://user-images.githubusercontent.com/70959898/196279305-1591ea55-b6b6-4a61-88a2-8644318395ef.png)
 
 
+PI_value_calculation(Результат):
+
+CPU Time
+
+3.14134
+
+time= 521.7 ms
+
+
+GPU Time
+
+3.14134
+
+time = 71.5282 ms
