@@ -1,9 +1,9 @@
 # HPC2022
-Matmul                +
+Matmul                -
 
-VectorSum             +
+VectorSum             -
 
-PI_value_calculation  +
+PI_value_calculation  -
 
 Salt and Pepper       -
 
