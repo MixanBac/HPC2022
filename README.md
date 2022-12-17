@@ -1,11 +1,11 @@
 # HPC2022
-Matmul                -
+Matmul                выполнено
 
-VectorSum             -
+VectorSum             выполнено
 
-PI_value_calculation  -
+PI_value_calculation  выполнено
 
-Salt and Pepper       -
+Salt and Pepper       выполнено
 
 Matmul:
 
@@ -229,3 +229,6 @@ GPU Time
 3.14134
 
 time = 71.5282 ms
+
+Salt and Pepper(Результат):
+
